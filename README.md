@@ -8,7 +8,7 @@ This repository contains a multi-language security threat analysis report coveri
 
 | Language | File | Description |
 |----------|------|-------------|
-| 🇰🇷 한국어 | [security-report-ko.md]([https://github.com/gameworkerkim/AI-LLM-Supply-Chain-Security-Report/blob/main/Security%20report%20ko.MD)  | 한국어 전문 리포트 |
+| 🇰🇷 한국어 | [security-report-ko.md] (https://github.com/gameworkerkim/AI-LLM-Supply-Chain-Security-Report/blob/main/Security%20report%20ko.MD)| 한국어 전문 리포트 |
 | 🇺🇸 English | [security-report-en.md](https://github.com/gameworkerkim/AI-LLM-Supply-Chain-Security-Report/blob/main/Security%20report%20en.MD)| Full English report |
 | 🇨🇳 中文 | [security-report-zh.md](https://github.com/gameworkerkim/AI-LLM-Supply-Chain-Security-Report/blob/main/Security%20report%20zh.MD) | 完整中文报告 |
 
